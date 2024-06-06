@@ -24,3 +24,9 @@ console.log("Bienvenidos a los juegos")
     //divide el resultado de la multiplicacion entre 50
 // 
 
+
+
+
+let suma=(a,b)=>{
+    return a+b
+}
