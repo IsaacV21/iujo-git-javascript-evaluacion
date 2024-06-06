@@ -30,3 +30,11 @@ console.log("Bienvenidos a los juegos")
 let suma=(a,b)=>{
     return a+b
 }
+
+
+
+multiplicacion =(a,b)=>{
+    return a*b
+}
+
+
